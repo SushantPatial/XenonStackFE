@@ -1,4 +1,4 @@
-## <div align=center>XenonStack Task</div>
+## <div align=center>XenonStack Task Frontend</div>
  
 ### Features 📃
 * Login / Register
